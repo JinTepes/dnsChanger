@@ -79,7 +79,7 @@ def get_DNS_Speed():
 
 #Change DNS Funciton
 def MDns():
-    print("\nWARNING!! WRONG INPUT WILL CLOSE THE APPLICATION!! TOO LAZY TO MAKE INPUT ERROR MANAGEMENT!!")
+    print("\nPlease Try not to input incorrect strings.")
 
     try:
         daDNS = input("Enter Primary DNS: ")
