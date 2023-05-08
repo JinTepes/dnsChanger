@@ -1,4 +1,4 @@
-# dnsChanger
+# DNS Changer
 
 This is a simple python script that can change the network adapters' DNS settings. 
 This script is for windows OS.
